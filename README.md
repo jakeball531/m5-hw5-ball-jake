@@ -1,1 +1,3 @@
 # m5-hw5-ball-jake
+
+This assignment went well. My biggest issue with CSS at this point is how long it takes/how many tries it takes to get the content positioned how I want, but I'm sure as I get more experience using it, it'll be easier for me to tell how things look just by seeing the code. Otherwise, I'm having a good time learning more - it's very satisfying coding something that looks how I want it too.

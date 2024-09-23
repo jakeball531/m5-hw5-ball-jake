@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: o;
+    border: 0;
+}
+
+body {
+    background-image: url("../images/background.png");
+}
+
+main {
+    background-color: white;
+    padding: 15px;
+    width: 68%;
+    display: inline-block;
+}
+
+h3 {
+    margin: 5px 10px 10px 10px;
+    text-align: center;
+}
+
+p {
+    margin: 10px;
+}
+
+.headshot {
+    float: left;
+    margin: 10px 20px 10px 0;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.main-content {
+    max-width: 1200px;
+}
+
+header {
+    padding: 40px;
+    background-color: black;
+    font-family: sans-serif;
+    border-bottom: 2px solid black;
+    color: white;
+}
+
+header h1 {
+    width: 50%;
+    display: inline-block;
+}
+
+header nav {
+    text-align: right;
+    display: inline-block;
+    width: 45%;
+}
+
+header nav a {
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 0 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    background-color: purple;
+    border-radius: 10px;
+}
+
+aside{
+    width: 19%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: white;
+    padding: 15px;
+}
+
+aside a {
+    padding: 10px;
+}
+
+.logogroup {
+    float: right;
+    margin: 5px;
+}
+/* went to stackoverflow to figure out how to center icons as a group */
+
+footer {
+    background-color: gray;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+    margin: 5px;
+}
